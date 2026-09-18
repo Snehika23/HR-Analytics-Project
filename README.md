@@ -29,7 +29,7 @@ The dashboard includes:
 - 📋 Tenure by Department
 - 🗺️ State Wise Distribution
 
-[![View Dashboard](https://img.shields.io/badge/Power%20BI-HR%20Analytics%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([YOUR_LINK_HERE](https://github.com/Snehika23/HR-Analytics-Project/blob/main/HR_Analytics_Dashboard.pdf))
+[![View Dashboard](https://img.shields.io/badge/Power%20BI-HR%20Analytics%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Snehika23/HR-Analytics-Project/blob/main/HR_Analytics_Dashboard.pdf)
 ---
 
 ## 🗂️ Project Structure
